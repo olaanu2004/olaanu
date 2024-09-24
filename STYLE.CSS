@@ -1,0 +1,31 @@
+.car{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder; 
+    color: rgb(241, 241, 247);  
+}
+
+nav{
+    color: rgb(36, 12, 246);
+    padding: 10px 10px;
+    background-color: rgb(74, 9, 240);
+    border-color: rgb(43, 92, 156);
+    border: 300px;
+    border-color: black;
+}
+
+.anu{
+    margin-left: 470px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    word-spacing: 100px;
+    color: white;
+    
+    
+}
+.anu>a{
+    color: aliceblue;
+    border: 0;
+}
+
